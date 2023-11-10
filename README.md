@@ -5,7 +5,7 @@
 [![REST](https://img.shields.io/badge/-REST-464646?style=flat&logo=REST&logoColor=ffffff&color=043A6B)](https://www.django-rest-framework.org/)
 
 
-## Описание
+## Описание:
 #### Проект YaCut позволяет с помощью WEB-интерфейса и REST API ассоциировать длинную пользовательскую ссылку с короткой, которую предлагает сам пользователь или предоставляет сервис.
 
 ### Ключевые возможности сервиса:
